@@ -2,7 +2,7 @@
 
 Deuxième projet du parcours "Développeur web" d'OpenClassroom. L'objectif est de transformer une maquette en site web avec HTML & CSS.
 
-Lien du site réalisé : https://alexandrepda.github.io/Booki/
+Lien du site réalisé :  https://alexandrepda.github.io/Booki/
 
 # Spécifications fonctionnelles
 
