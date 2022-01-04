@@ -1,8 +1,12 @@
-# Booki
+# Booki 🏘
 
 Deuxième projet du parcours "Développeur web" d'OpenClassroom. L'objectif est de transformer une maquette en site web avec HTML & CSS.
 
 Lien du site réalisé :  https://alexandrepda.github.io/Booki/
+
+# Technologies utilisées
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 # Spécifications fonctionnelles
 
